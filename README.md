@@ -1,4 +1,4 @@
-# 🚀 Portfolio Carron Cyril
+# 🚀 Portfolio
 
 Portfolio professionnel développé avec Symfony, permettant de présenter mes projets, compétences, soft skills, mon CV et de gérer le contenu via un back-office CMS personnalisé.
 
